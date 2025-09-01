@@ -62,7 +62,7 @@ class _FirstpageState extends State<Firstpage> {
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                Text(
+                const Text(
                   "Skip Now",
                   style: TextStyle(
                     color: Colors.white,
